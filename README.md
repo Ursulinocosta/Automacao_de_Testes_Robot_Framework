@@ -1,4 +1,4 @@
-# Curso Automção de Testes com Robot Framework - do básico ao avançado
+# Curso Automação de Testes com Robot Framework - do básico ao avançado
 
 #### Conteúdo do curso
 - Controle de fluxos mais avançados para testes mais complexos
