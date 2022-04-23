@@ -1,5 +1,7 @@
 # Curso Automação de Testes com Robot Framework - do básico ao avançado
 
+### Curso de Robot Framework com recursos avançados para automação de testes, tais como fluxos avançados de execução de teste, libraries auxiliares, criação de uma library customizada, testes web e API avançados, execução headless, execução em Docker e integração contínua.
+
 #### Conteúdo do curso
 - Controle de fluxos mais avançados para testes mais complexos
 - Comunicação com banco de dados
